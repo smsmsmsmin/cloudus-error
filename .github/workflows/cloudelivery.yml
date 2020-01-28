@@ -1,4 +1,4 @@
-name: React build
+name: Release to Cloudelivery
 on: 
   push:
     branches:
